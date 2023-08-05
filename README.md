@@ -34,7 +34,7 @@ In order to complete the following series of workshops, it is necessary to downl
 
 [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
-First of all download python from the link above
+First of all download the latest available version of python from the link above
 
 When the installation is about to begin, be sure to click the checkbox saying "add to path"
 
