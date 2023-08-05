@@ -31,7 +31,7 @@ In order to complete the following series of workshops, it is necessary to downl
 First of all download the latest available version of python from the link above.
 When the installation is about to begin, be sure to click the checkbox saying "add to path"
 
-![](RackMultipart20230805-1-wm82su_html_f9dbcc2cd3ee45b0.png)
+![](image_2023-08-06_014944122.png)
 
 2. **Visual Studio Code Download** ![](RackMultipart20230805-1-wm82su_html_82bed0bb3bf62809.png)
 
@@ -43,7 +43,7 @@ Visual Studio is the next thing to download if you do not have an IDE (Integrate
 
 Finally, downloading the python extension for VS code will allow you to code in Python. To do this, navigate to the marketplace and look for python.
 
-![](RackMultipart20230805-1-wm82su_html_73f8f101ee9ecca3.png)
+![](image_2023-08-06_014952937.png)
 
 ## Installing OpenCV for Python
 
