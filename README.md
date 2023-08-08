@@ -1,4 +1,3 @@
-#
 # Lesson 1 : **Introduction to OpenCV**
 
 ## Contents
