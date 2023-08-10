@@ -14,6 +14,7 @@
 - OpenCV Documentation: [https://docs.opencv.org/4.x/](https://docs.opencv.org/4.x/)
 - OpenCV Python Tutorials: [https://docs.opencv.org/4.x/d6/d00/tutorial\_py\_root.html](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
 - Numpy References: [https://numpy.org/doc/1.23/reference/index.html#reference](https://numpy.org/doc/1.23/reference/index.html#reference)
+- Git Tutorial : https://github.com/usydroboticsclub/intro
 
 ## How to show Proof of Work (and claim PEP Hours!)
 
