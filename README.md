@@ -2,16 +2,25 @@
 
 ## Contents
 
-1. Installing OpenCV for python
-2. Displaying Images and Videos
-3. Scaling frames
-4. Matplotlib and Colour Transformations
+1. How to show Proof of Work
+2. Installing Python and an IDE
+3. Installing OpenCV for python
+4. Displaying Images and Videos
+5. Scaling frames
+6. Matplotlib and Colour Transformations
 
 ## Useful Links
 
 - OpenCV Documentation: [https://docs.opencv.org/4.x/](https://docs.opencv.org/4.x/)
 - OpenCV Python Tutorials: [https://docs.opencv.org/4.x/d6/d00/tutorial\_py\_root.html](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
 - Numpy References: [https://numpy.org/doc/1.23/reference/index.html#reference](https://numpy.org/doc/1.23/reference/index.html#reference)
+
+## How to show Proof of Work (and claim PEP Hours!)
+
+When you finish these challenges and make your final commit, note down the commit ID and mention it in the attendance form.
+![](image.png)
+
+This week's attendance form : https://forms.gle/6NtwvQVaP4eWAZ7V8
 
 ## Overview
 
