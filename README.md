@@ -18,7 +18,7 @@
 ## How to show Proof of Work (and claim PEP Hours!)
 
 When you finish these challenges and make your final commit, note down the commit ID and mention it in the attendance form.
-![](image.png)
+![](image_2023-08-10_120659832.png)
 
 This week's attendance form : https://forms.gle/6NtwvQVaP4eWAZ7V8
 
