@@ -78,8 +78,6 @@ If nothing happens, you have both libraries installed on your computer, otherwis
 
 `pip install matplotlib`
 
-To use OpenCV in a python project, `import cv2 as cv` at the top of your python file.
-
 ## **Displaying Images**
 
 Displaying images and videos in OpenCV is a great way to see the effects of an operation on an image. To display an image, all you need is its file path and the following OpenCV functions:
