@@ -118,9 +118,9 @@ def main():
 
   beach = cv.imread("../Images/Beach.jpg")
 
-  cv.imshow("Beach", beach) _# Show window_
+  cv.imshow("Beach", beach) # Show window_
 
-  cv.waitKey(0) _# Wait and close window only when key is pressed_
+  cv.waitKey(0) # Wait and close window only when key is pressed_
 
 if __name__ == "__main__":
 
@@ -167,7 +167,7 @@ capture = cv.VideoCapture("video path")
 
 while True:
 
-  retval, frame = capture.read() _# retval is bool for successful read_
+  retval, frame = capture.read() # retval is bool for successful read_
 
   # Exit loop once end of the video is reached_
 
@@ -177,7 +177,7 @@ while True:
 
   cv.imshow("Display name", frame)
 
-  if cv.waitKey(17) ==ord('d'): _# Close if 'd' is pressed_
+  if cv.waitKey(17) ==ord('d'): # Close if 'd' is pressed_
 
     break
 
@@ -226,7 +226,7 @@ Often it can be useful to display an image using Matplotlib in order to inspect 
 
 To display a Mat object (image) using Matplotlib, the function _plt.imshow()_ can be used. To edit the plot, familiar functions used for regular plots such as _plt.title()_, _plt.show()_ and _plt.xlabel()_ can be used.
 
-### plt.imshow(image: cv.Mat) -\> None
+### plt.imshow(image: cv.Mat) -> None
 
 - Creates a plt image that can be edited using matplotlib functions.
 - To show the image, call _plt.show()_.
@@ -235,7 +235,7 @@ It should be noted that OpenCV stores image pixels as Blue, Green, Red (BGR) ins
 
 OpenCV provides the functions _cv.cvtColor()_ to convert between any colour space supported by OpenCV. Commonly used colour spaces include the previously mentioned BGR and RGB as well as HSV and Grayscale.
 
-### cv.cvtColour(image: cv.Mat, flag: int) -\> cv.Mat
+### cv.cvtColour(image: cv.Mat, flag: int) -> cv.Mat
 
 - Converts an image from one colour space to another, returning the converted image.
 - The `flag` argument specifies which colour space conversion is to take place. These flags can be found under ColorCodeConversions in the OpenCV docs: [https://docs.opencv.org/4.x/d8/d01/group\_\_imgproc\_\_color\_\_conversions.html#ga4e0972be5de079fed4e3a10e24ef5ef0](https://docs.opencv.org/4.x/d8/d01/group __imgproc__ color__conversions.html#ga4e0972be5de079fed4e3a10e24ef5ef0)
