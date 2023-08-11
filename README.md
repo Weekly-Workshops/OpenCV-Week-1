@@ -104,7 +104,7 @@ Displaying images and videos in OpenCV is a great way to see the effects of an o
 
 Please refer to the function prototypes on the previous page if you are unsure how to use the functions referenced in this section, otherwise, feel free to search them up in their documentation on the OpenCV website (link on the first page).
 
-1. Create a new Python file and `import cv2 as cv` to use the functions provided in the OpenCV library.
+1. Create a new Python file labelled `w1-task1.py` and `import cv2 as cv` to use the functions provided in the OpenCV library.
 
 2. Take a photo of yourself and save it to the same directory as the python file you just created. If you are unable or don't want to take a photo of yourself, download an image off the internet instead.
 
@@ -153,7 +153,7 @@ Also, note the if statement which controls when the video is ended. Here, 'd' is
 
 ## Task 2: Displaying a Video
 
-1. Create a new Python file and `_import cv2 as cv`._
+1. Create a new Python file labelled `w1-task2.py` and `_import cv2 as cv`._
 
 2. Create a capture object using _cv.VideoCapture()_. If you have a camera attached to your device, pass in zero as the only argument, otherwise download an mp4 from YouTube and pass the mp4's file path as a string argument instead.
 
@@ -214,9 +214,11 @@ _rescale_ takes the image/frame being resized as well as the scaling factor of t
 
 ## Task 3: Resizing an image
 
-1. Using the provided rescale function, change the size of the image or video from tasks 1 and 2.
+1. Make another file labelled `w1-task3.py`
+  
+2. Using the provided rescale function, change the size of the image or video from tasks 1 and 2.
 
-2. **Extension -** Try implementing your own version of rescale, utilising _cv.resize()_.
+3. **Extension -** Try implementing your own version of rescale, utilising _cv.resize()_.
 
 # Matplotlib and Colour Space Transformations
 
@@ -242,7 +244,7 @@ OpenCV provides the functions _cv.cvtColor()_ to convert between any colour spac
 
 ## Task 4
 
-1. Create a new Python file, importing both _cv2_ and _matplotlib.pyplot_.
+1. Create a new Python file labelled `w1-task4.py`, importing both _cv2_ and _matplotlib.pyplot_.
 
 2. Read in the image from Task 1 and convert it from a BGR colour space to an RGB colour space using the flag cv.COLOR\_BGR2RGB.
 
